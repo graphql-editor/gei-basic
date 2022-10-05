@@ -25,6 +25,7 @@
     "typescript": "^4.8.3"
   },
   "dependencies": {
-    "stucco-js": "^0.10.4"
+    "stucco-js": "^0.10.4",
+    "ws": "^8.9.0"
   }
 }
